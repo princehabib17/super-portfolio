@@ -4,8 +4,6 @@ const nextConfig = {
     domains: ['localhost'],
     unoptimized: true,
   },
-  // Remove static export for development
-  // output: 'export',
   trailingSlash: false,
   basePath: '',
 }
