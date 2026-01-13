@@ -1,4 +1,3 @@
-'use client';
 export default function BentoWhy(){
   const tiles = [
     { title:'Speed', micro:'Weeks, not months.' },
