@@ -1,4 +1,3 @@
-'use client';
 export default function ProcessCards(){
   const steps = [
     { t:'Discovery', b:'Goals, audience, constraints, success signals.' },
