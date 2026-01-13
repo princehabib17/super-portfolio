@@ -1,4 +1,4 @@
-import './globals.css';
+import '../globals.css';
 import type { Metadata } from 'next';
 import { Inter, Noto_Kufi_Arabic } from 'next/font/google';
 
