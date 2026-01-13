@@ -1,4 +1,3 @@
-'use client';
 export default function FAQ(){
   const items = [
     { q:'How fast?', a:'Simple sites 2–3 weeks. Complex interactions 4–6.' },

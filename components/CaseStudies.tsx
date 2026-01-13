@@ -1,4 +1,3 @@
-'use client';
 export default function CaseStudies(){
   const items = [
     { slug: 'dxb-renewables', title: 'DXB Renewables', img:'/case_dxb.png', problem:'Dense pricing confused buyers.', direction:'Interactive tiles instead of charts.', outcome:'Faster understanding; calmer decisions.'},
