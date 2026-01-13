@@ -26,5 +26,10 @@
     "eslint": "^8.56.0",
     "eslint-config-next": "14.2.35",
     "typescript": "^5.9.2"
+  },
+  "overrides": {
+    "@next/eslint-plugin-next": {
+      "glob": "10.5.0"
+    }
   }
 }
